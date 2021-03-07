@@ -1,0 +1,6 @@
+"use strict";
+
+var _CustomMap = require("./CustomMap");
+
+new _CustomMap.CustomMap('map');
+new _CustomMap.CustomMap('map');

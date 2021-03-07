@@ -1,0 +1,8 @@
+"use strict";
+
+var _User = require("./User");
+
+var _CustomMap = require("./CustomMap");
+
+const user = new _User.User();
+new _CustomMap.CustomMap('map');
